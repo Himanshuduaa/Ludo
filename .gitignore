@@ -1,0 +1,11 @@
+.vs
+.vscode
+Builds
+Library
+Logs
+obj
+Temp
+UserSettings
+.vsconfig
+.env
+Build

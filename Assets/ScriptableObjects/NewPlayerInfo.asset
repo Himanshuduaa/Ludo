@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb60c6aacfa427640b7ac8dd95ea3a3b, type: 3}
+  m_Name: NewPlayerInfo
+  m_EditorClassIdentifier: 
+  gameSettings:
+    notifications: 1
+    music: 1
+    sound: 1
+  playerID: 
+  uid: 
+  avatar: 0
+  referralLink: 
+  referralCode: 
+  userToken: 
+  userName: 
+  balance: 
+  account: 
+  operatorToken: 
+  address: 192.168.1.25
+  Amount:
+    _serializedList: []
+  unAuthorized: 0
+  encodedAuthToken: 

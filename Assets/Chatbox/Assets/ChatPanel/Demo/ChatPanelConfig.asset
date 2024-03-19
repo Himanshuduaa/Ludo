@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eae67ca42b0df3f42bb29b2c6938d92a, type: 3}
+  m_Name: ChatPanelConfig
+  m_EditorClassIdentifier: 
+  photoSize: 50
+  width: 2008
+  height: 675
+  scrollBarWidth: 17
+  iBallon: {fileID: 21300000, guid: 019512613dcc8b14d8467d30daa3d1e2, type: 3}
+  youBallon: {fileID: 21300000, guid: f90012496b9c4bc4ebfc31ea5d31219d, type: 3}
+  animateTime: 0.02
+  backgroundColor: {r: 0.9019608, g: 0.9019608, b: 0.9019608, a: 0}
+  photoSpriteList:
+  - {fileID: 21300000, guid: af5564355fc56c44393b1bacf093b427, type: 3}
+  - {fileID: 21300000, guid: d8addfe664954d74ca20526f5e329e99, type: 3}
+  - {fileID: 21300000, guid: 8ca80c3ee0123ad4d9369bad2c8c9792, type: 3}
+  - {fileID: 21300000, guid: af85fb8d25c85164eb15bc64d32018c6, type: 3}
+  - {fileID: 21300000, guid: 868e640b0ba0f5648a5e8569dec881a3, type: 3}
+  - {fileID: 21300000, guid: e55bad3acaf2b1e4080be65e6815c47e, type: 3}
+  - {fileID: 21300000, guid: 65fe840b0e86a4a4282bcbec8ddaee51, type: 3}
+  - {fileID: 21300000, guid: 0ae4b3c12d2a7084dac53fbc50fca6c7, type: 3}
+  - {fileID: 21300000, guid: 3db91ab5ebee55d47aa7578a7256d8d6, type: 3}
+  - {fileID: 21300000, guid: 467241978ebb36442a11903c1f1b170b, type: 3}
+  - {fileID: 21300000, guid: b319a8caa13718748abb72f336d8b84d, type: 3}
+  - {fileID: 21300000, guid: 3d86c260c4ed3c246ab97bdf9e52ffd8, type: 3}
+  - {fileID: 21300000, guid: 928089345fd9f3a46b79a843f72ef4c8, type: 3}
+  - {fileID: 21300000, guid: 0ec83b0f351a1a2429fed86ae4bb96f4, type: 3}
+  - {fileID: 21300000, guid: 688daac932ded634b9fa8863905419a8, type: 3}
+  - {fileID: 21300000, guid: 77be0ccc8e3b7094f9ede962e8974ca9, type: 3}
+  - {fileID: 21300000, guid: 4f936b316720bae499dbb3504ea44cf1, type: 3}
+  - {fileID: 21300000, guid: 2dd2fdd74cfd2e049a1e9831f799f746, type: 3}
